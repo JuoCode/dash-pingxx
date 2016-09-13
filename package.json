@@ -1,0 +1,15 @@
+{
+  "name": "dash-pingpp",
+  "version": "1.0.0",
+  "description": "Ping++ docset",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./fetch && ./dashing build --source=./html"
+  },
+  "author": "Sword.Guo <gjdrift@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.14.0",
+    "cheerio": "^0.22.0"
+  }
+}

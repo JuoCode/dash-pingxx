@@ -1,0 +1,12 @@
+{
+    "name": "Ping++",
+    "package": "Ping++",
+    "index": "pingpp-api.html",
+    "selectors": {
+        ".left-content h2": "Sections",
+        ".row.docs-head h2": "Guide"
+    },
+    "icon32x32": "logo.png",
+    "allowJS": false,
+    "ExternalURL": "https://www.pingxx.com/api"
+}
